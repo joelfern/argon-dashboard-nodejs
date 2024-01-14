@@ -1,7 +1,9 @@
 {
   "name": "argon-dashboard-nodejs",
   "version": "1.0.1",
-  "engines": { "node": "12.x", "npm": "10.2.4" },
+  "engines": {
+    "node": "12.x"
+}
   "private": true,
   "scripts": {
     "pm2": "pm2",
